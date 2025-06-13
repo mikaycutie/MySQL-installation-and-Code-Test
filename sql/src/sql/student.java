@@ -6,7 +6,7 @@ package sql;
 
 /**
  *
- * @author Jassen
+ * @author Mikay
  */
 public class student {
      private int id;
