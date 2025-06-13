@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jassen
+ * @author Mikay
  */
 public class Sql {
 
