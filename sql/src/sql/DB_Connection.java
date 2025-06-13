@@ -6,7 +6,7 @@ package sql;
 
 /**
  *
- * @author Jassen
+ * @author Mikay
  */
 class DB_Connection {
     
